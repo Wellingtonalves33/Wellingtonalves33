@@ -3,7 +3,7 @@
   Bem-vindo ao meu Universo Digital!
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Eu+sou+Wellington+Alves;Desenvolvedor+Full-Stack+Apaixonado;Transformando+Ideias+em+Código&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Eu+sou+Wellington+Alves;++++Desenvolvedor+Full-Stack;Transformando+Ideias+em+Código&center=true&width=380&height=45">
 </p>
 👨‍💻 Sobre Mim
 Sou um Desenvolvedor Full Stack apaixonado por criar experiências digitais excepcionais. Depois de construir uma carreira sólida como vendedor de materiais odontológicos, tomei a decisão de dar um passo transformador, mergulhando no universo do desenvolvimento web. Atualmente, estou em transição de carreira, e minha experiência em entender as necessidades dos clientes e fornecer soluções personalizadas agora guia minha abordagem na criação de interfaces de usuário intuitivas, funcionais e que entregam valor real ao usuário final.
